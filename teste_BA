@@ -1,0 +1,58 @@
+Teste utilizando a BA
+g_kj = raio máximo
+391 desaparecidos
+1328 perfis
+
+3.2 <= 1
+Resultados:
+	388 desaparecidos com influenciador
+	3   desaparecidos sem influenciadores
+
+	115  perfis influenciadores
+
+	117 perfis que recebem alguma informação
+	1211 perfis que não recebem informação
+
+3.2 <= 2
+Resultados:
+	385 desaparecidos com influenciador
+	6   desaparecidos sem influenciadores
+
+	174  perfis influenciadores
+
+	176  perfis que recebem alguma informação
+	1152 perfis que não recebem informação	
+
+
+3.2 <= 5
+Resultados:
+	382 desaparecidos com influenciador
+	9   desaparecidos sem influenciadores
+
+	305  perfis influenciadores
+
+	307  perfis que recebem alguma informação
+	1021 perfis que não recebem informação
+
+
+3.2 <= 10
+Resultados:
+	381 desaparecidos com influenciador
+	10  desaparecidos sem influenciadores
+
+	484 perfis influenciadores
+
+	486 perfis que recebem alguma informação
+	842 perfis que não recebem informação	
+
+
+3.2 <= 20
+Resultados:
+	382 desaparecidos com influenciador
+	9   desaparecidos sem influenciadores
+
+	751  perfis influenciadores
+
+	753 perfis que recebem alguma informação
+	575 perfis que não recebem informação	
+	
